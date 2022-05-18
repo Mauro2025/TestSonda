@@ -6,9 +6,7 @@ Nombre: Mauricio Martinez E.
 
         •Instalar la herramienta Power Automate
 	•Crear un nuevo flujo de automatización
-
-	Esperar a que el flujo se edite.
-
+	•Esperar a que el flujo se edite.
 	•Seleccionar Automatización de explorador
 	•Seleccionar Iniciar nuevo Chrome
 	•Arrastrar la pestaña hacia el Main
