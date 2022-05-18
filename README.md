@@ -4,7 +4,7 @@ Nombre: Mauricio Martinez E.
 	Se utilizo la herramienta Power Automate. Para visualizar el resultado en ejecución se deben seguir los 	
 	siguientes pasos:
 
-        •Instalar la herramienta Power Automate
+    •Instalar la herramienta Power Automate
 	•Crear un nuevo flujo de automatización
 	•Esperar a que el flujo se edite.
 	•Seleccionar Automatización de explorador
